@@ -1,0 +1,2 @@
+different test scenario of homepage :
+1. check user info 
